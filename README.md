@@ -40,7 +40,7 @@
 
   ## Usage
 
-      First you will need to create a business account. Once done, you can log in and edit your profile, create customers, review customers, search for customer by first name(only option right now) and/or edit previouse reviews you have made. The customers displayed on your home page are customers you created. If you are a individual and you see your card, click view profile and claim your account. If your email matches that which the business provided then you will be able to create a password and then you will have access to your profile. Currently there is no benifit to this as that is a future development issue where the customer could then edit his/her/them prifile. 
+    First you will need to create a business account. Once done, you can log in and edit your profile, create customers, review customers, search for customer by first name(only option right now) and/or edit previouse reviews you have made. The customers displayed on your home page are customers you created. If you are a individual and you see your card, click view profile and claim your account. If your email matches that which the business provided then you will be able to create a password and then you will have access to your profile. Currently there is no benifit to this as that is a future development issue where the customer could then edit his/her/them prifile. 
   
   ## Technologies
 
