@@ -8,7 +8,15 @@
   Its a full stack app in which the business can leave reviews for the customers that visit them. The loged in business owner can create customers or wright reviews that will be displayed on the customers profile. The passwards used to create accounts are encrypted to protect the users password. 
 
   ## Images
-
+   
+   <img src="1.jpg">
+   <hr>
+   <img src="2.jpg">
+   <hr>
+   <img src="3.jpg">
+   <hr>
+   <img src="4.jpg">
+   <hr>
   
   ## Table of Content
 
@@ -37,11 +45,17 @@
       CSS, jquery, javascript. Also the fallowing npm packages: bcrypt, dotenv,express, express-handlebars, express-sessions, mysql2, sequelize.
 
   ## Contributors
+  Shout out to the team and their hard work!!!!!
 
   Shae Mullaney, Tim Keller, Kevin Lyons, Benjamin Hopkins.
 
   ## Questions/Contact
-
+  <a href="https://github.com/tmkeller">Tim Profile</a>
+  <hr>
+  <a href="https://github.com/seagda">Shae Profile</a>
+  <hr>
+  <a href="https://github.com/Lax-Walrus">Kevin Profile</a>
+  <hr>
   <a href="https://github.com/bh007183">GitHub Profile</a>
   <a href="mailto:bjhops17@gmail.com"> Email Me</a>
   
@@ -49,4 +63,5 @@
 
 
 
+  
   
